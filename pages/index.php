@@ -8,7 +8,7 @@ if(isset($_SESSION['DBid'])==false) header("location:../index.php");
 <head>
    
     
-    <title>Inicio</title>
+    <title>Inicioprograma1</title>
     
     <?php include("partes/enlaces.php");?>
     <link rel="stylesheet" href="../css/misestilos.css">
